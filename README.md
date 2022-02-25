@@ -1,5 +1,3 @@
-<h1 align="center">Hi, I'm Angely 👋</h1>
-
 <!--
 **angelydy/angelydy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -16,4 +14,5 @@ Here are some ideas to get you started:
 -->
 
 <img align='center' src="banner.png">
-<p align="center"> 🌱 2nd-year computer science student who aspires to be a developer and a UI designer someday.</p>
+<h1 align="center">Hi, I'm Angely</h1>
+<p align="center"> 🌱 A 2nd-year computer science student who aspires to be a developer and a UI designer someday.</p>
