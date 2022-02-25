@@ -14,5 +14,20 @@ Here are some ideas to get you started:
 -->
 
 <img align='center' src="banner.png">
-<h1 align="center">Hi, I'm Angely</h1>
-<p align="center"> 🌱 A 2nd-year computer science student who aspires to be a developer and a UI designer someday.</p>
+<h1 align="center">
+  Hi, I'm Angely
+</h1>
+<p align="center"> 
+  🌱 A 2nd-year computer science student who aspires to be a developer and a UI designer.
+</p>
+<p align='center'>
+  ────────────────────────
+</p>
+<h3 align='center'>
+  Technology Stack:
+  <br>
+  <img src="https://img.icons8.com/color/48/000000/html-5--v1.png"/>
+  <img src="https://img.icons8.com/color/48/000000/css3.png"/>
+  <img src="https://img.icons8.com/ios-filled/50/000000/javascript-logo.png"/>
+</h3>
+<br>
