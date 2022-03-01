@@ -16,5 +16,6 @@
   <img src="https://img.icons8.com/color/48/000000/javascript--v1.png"/>
   <img src="https://img.icons8.com/color/48/000000/python--v1.png"/>
   <img src="https://img.icons8.com/color/48/000000/figma--v1.png"/>
+  <img src="https://img.icons8.com/color/48/000000/sass.png"/>
 </h3>
 <br>
