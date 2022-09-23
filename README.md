@@ -1,4 +1,4 @@
-<img align='center' src="banner.png">
+<img align='center' src="banner01.png">
 <h1 align="center">
   Hi, I'm Angely
 </h1>
