@@ -3,7 +3,7 @@
   Hi, I'm Angely
 </h1>
 <p align="center"> 
-  🌱 A 2nd-year computer science student from the Philippines who aspires to be a developer or a UI designer.
+  🌱 A 2nd-year computer science student from the Philippines who aspires to be a front-end developer or a UI/UX designer.
 </p>
 <p align='center'>
   ────────────────────────
